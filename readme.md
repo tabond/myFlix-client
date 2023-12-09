@@ -1,0 +1,1 @@
+path to html for parcel = myFlix-client/src/index.html 
