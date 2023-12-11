@@ -27347,15 +27347,15 @@ const MainView = ()=>{
         onBackClick: ()=>setSelectedMovie(null)
     }, void 0, false, {
         fileName: "src/components/main-view/main-view.jsx",
-        lineNumber: 33,
-        columnNumber: 5
+        lineNumber: 43,
+        columnNumber: 7
     }, undefined);
     if (movies.length === 0) return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         children: "The list is empty!"
     }, void 0, false, {
         fileName: "src/components/main-view/main-view.jsx",
-        lineNumber: 37,
-        columnNumber: 1
+        lineNumber: 51,
+        columnNumber: 12
     }, undefined);
     else return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         children: movies.map((movie)=>{
@@ -27366,17 +27366,17 @@ const MainView = ()=>{
                 }
             }, movie.id, false, {
                 fileName: "src/components/main-view/main-view.jsx",
-                lineNumber: 43,
-                columnNumber: 17
+                lineNumber: 57,
+                columnNumber: 13
             }, undefined);
         })
     }, void 0, false, {
         fileName: "src/components/main-view/main-view.jsx",
-        lineNumber: 40,
-        columnNumber: 9
+        lineNumber: 54,
+        columnNumber: 7
     }, undefined);
 };
-_s(MainView, "00cXWt6XBGZMw5g2g2Ah8C5UpJM=");
+_s(MainView, "oMzFwLaTQcSpElPph2aaiSEh+yg=");
 _c = MainView;
 var _c;
 $RefreshReg$(_c, "MainView");
