@@ -41,6 +41,7 @@ else {
             {movies.map((movie) => {
                 return (
                 <MovieCard 
+                key={movie.id}
                 movie={movie} 
                 onMovieClick={(newSelectedMovie) => {setSelectedMovie(newSelectedMovie); }} />
             );
